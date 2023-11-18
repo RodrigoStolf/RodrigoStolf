@@ -1,7 +1,7 @@
 ## Olá, eu sou o Rodrigo Stolf, tudo bem?
 
-💻 Técnico em integrações de sistemas!<br>
-📖 Desenvolvedor web fullstak em formação!
+💻 Técnico em Integrações de Sistemas!<br>
+📖 Desenvolvedor Web Full Stack em formação!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Stolf-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
